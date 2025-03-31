@@ -1,2 +1,2 @@
 # website
-Personal Website
+Personal Portfolio Website with education, project, and contact info.
